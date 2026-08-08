@@ -109,7 +109,7 @@ header.open .burger--btn span:nth-child(1) {
 
 /* ПАНЕЛЬ НАВИГАЦИИ САЙТА */
 header {
-  background-image: url("/image/Shapka.png");
+  background-image: url("image/Shapka.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
